@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440936776429",
+    "project_id": "coursetune-44748",
+    "storage_bucket": "coursetune-44748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440936776429:android:3f80509774085176ba02e4",
+        "android_client_info": {
+          "package_name": "com.coursetune"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwBfUf2EL1dye9jR8NpEnrQMnO9V-c24Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
